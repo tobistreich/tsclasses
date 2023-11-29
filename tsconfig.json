@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "umd", // or "amd"
+      // other options...
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
